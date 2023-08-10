@@ -1,16 +1,18 @@
 # NovoNordisk-Obesity
 
-Project was developed during The Data Analytics Challenge 2022 in Copenhagen with Novo Nordisk and Inviso by Devoteam, 06-7.11.2022.
+Project was developed during The Data Analytics Challenge 2022 in Copenhagen with Novo Nordisk and Inviso by Devoteam.
 
 Background:
-Novo Nordisk is a global healthcare company, founded in 1923 and headquartered just out- side Copenhagen, Denmark. Novo Nordisk is raising their ambitions to drive change through the development of a new program that can create significant societal impact by focusing on the prevention of obesity among children (age 5 – 9) and adolescents (age 10 – 19) in selected countries across the world.
+Novo Nordisk is a global healthcare company, founded in 1923 and headquartered just out-side Copenhagen, Denmark. Novo Nordisk is raising their ambitions to drive change through the development of a new program that can create significant societal impact by focusing on the prevention of obesity among children (age 5 – 9) and adolescents (age 10 – 19) in selected countries across the world.
 
 Obesity - Drivers and relevance:
 As with many chronic diseases, obesity is more prevalent among people with lower socioeconomic status. This is due to unequal distribution of access to health care, healthy food, and physical activity opportunities.
 
-FactorsObesity
+![image](https://github.com/Puja025/NovoNordisk-Obesityt/assets/101355256/fcdcfed7-fa5b-43f0-a0f4-db840b4f67cd)
 
 THE CASE
+![image](https://github.com/Puja025/NovoNordisk-Obesityt/assets/101355256/8e7e240b-8b9c-4978-8080-a20fad7b1968)
+
 
 
 GIVEN DATA
